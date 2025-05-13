@@ -1,6 +1,8 @@
 # Face Recognition and Logging System
 
 This project implements a real-time face recognition system using the `face_recognition` library and OpenCV. It detects faces in a live video feed, identifies known individuals based on pre-loaded images, logs their names and timestamps to an Excel file, and includes a utility to remove duplicate log entries.
+
+
 ![img](https://github.com/user-attachments/assets/fcaaff99-ceb4-4e7a-bc46-77931713367d)
 
 
